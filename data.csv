@@ -1,0 +1,6 @@
+TransactionID,CustomerID,ProductName,PurchaseDate,UnitPrice,Quantity,TotalSale,Region,CustomerFeedback,IsReturned
+TXN001,CUST482,SuperWidget Pro,26/09/2025,49.99,2,99.98,North,"Great product, fast shipping!",FALSE
+TXN002,CUST105,Standard Widget,26/09/2025,19.95,5,99.75,West,Item was smaller than expected.,TRUE
+TXN003,CUST931,MegaWidget 3000,27/09/2025,120,1,120,North,,FALSE
+TXN004,CUST482,Gizmo Accessory,27/09/2025,9.5,3,28.5,North,Perfect fit for my SuperWidget.,FALSE
+TXN005,CUST256,Standard Widget,27/09/2025,19.95,1,19.95,South,Arrived on time.,FALSE
